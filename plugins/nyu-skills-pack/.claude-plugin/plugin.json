@@ -1,0 +1,17 @@
+{
+  "name": "nyu-skills-pack",
+  "version": "1.1.0",
+  "description": "Pack complet de 87 skills : ingenierie logicielle (spec, TDD, code review, ship, QA), design produit et frontend, revues de plan multi-roles, debug et investigation, iOS, documentation, recherche et securite.",
+  "author": {
+    "name": "Nyu"
+  },
+  "keywords": [
+    "engineering",
+    "design",
+    "review",
+    "workflow",
+    "gstack",
+    "qa",
+    "ios"
+  ]
+}

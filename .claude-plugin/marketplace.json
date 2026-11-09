@@ -1,0 +1,15 @@
+{
+  "name": "nyu-skills",
+  "owner": { "name": "Nyu" },
+  "metadata": {
+    "description": "Pack de 87 skills Claude Code : ingénierie, design, QA, iOS, recherche."
+  },
+  "plugins": [
+    {
+      "name": "nyu-skills-pack",
+      "source": "./plugins/nyu-skills-pack",
+      "description": "87 skills : spec, TDD, code review, ship, QA, design frontend, revues de plan, debug, iOS, documentation, recherche, sécurité.",
+      "version": "1.1.0"
+    }
+  ]
+}
