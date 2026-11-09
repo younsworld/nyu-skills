@@ -1,5 +1,7 @@
 # nyu-skills
 
+Par **Nyu**. Si le pack t'aide, suis-moi sur X : [@0xNyu_](https://x.com/0xNyu_) 🙏 Ça m'aide vraiment à continuer.
+
 Un pack de **87 skills pour Claude Code**, regroupés dans un seul plugin : spécification, TDD, code review, ship, QA, design frontend, revues de plan, debug, iOS, documentation, recherche et sécurité.
 
 ## Installation
@@ -30,3 +32,7 @@ La plupart de ces skills ne sont pas de moi : ce dépôt les regroupe pour les i
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) (MIT), graphify (Safi Shamsi), emil-design-eng (Emil Kowalski), design-taste-frontend
 
 Pour les mises à jour, mieux vaut suivre les dépôts d'origine.
+
+## Me suivre
+
+Je partage mes skills et mes expériences avec Claude Code sur X : [@0xNyu_](https://x.com/0xNyu_). Un follow, ça m'aide énormément.

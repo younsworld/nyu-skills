@@ -3,8 +3,10 @@
   "version": "1.1.0",
   "description": "Pack complet de 87 skills : ingenierie logicielle (spec, TDD, code review, ship, QA), design produit et frontend, revues de plan multi-roles, debug et investigation, iOS, documentation, recherche et securite.",
   "author": {
-    "name": "Nyu"
+    "name": "Nyu (@0xNyu_ sur X)",
+    "url": "https://x.com/0xNyu_"
   },
+  "homepage": "https://github.com/younsworld/nyu-skills",
   "keywords": [
     "engineering",
     "design",
